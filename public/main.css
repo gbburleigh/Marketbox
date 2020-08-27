@@ -1,0 +1,58 @@
+html {
+    font-family: 'Lexend Deca', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*font-family: 'Lexend Deca', sans-serif;*/
+    font-family: 'Jura', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.headbar{
+    margin: 0 auto;
+    position: fixed;
+    background-color: grey;
+    width: 100vw;
+    height: 5vw;
+}
+
+.headbar-icon{
+    position: relative;
+    height: 2vw;
+    margin-top: .8vw;
+    margin-left: .4vw;
+    border-radius: 7px;
+    background-color: #f5cdcb;
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;
+    padding-top: 0.25vw;
+    padding-bottom: 0.25vw;
+    display: inline-block;
+}
+
+.headbar-link{
+    position: relative;
+    top: .2vw;
+}
+
+.title-icon {
+    position: relative;
+    height: 3vw;
+    margin-top: .8vw;
+    margin-left: .4vw;
+    border-radius: 7px;
+    background-color: #fa6b64;
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;
+    padding-top: 0.75vw;
+    padding-bottom: 0.25vw;
+    display: inline-block;
+}
+
+#title-link {
+    position: relative;
+    top: .2vw;
+}
